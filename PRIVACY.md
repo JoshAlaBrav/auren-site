@@ -1,18 +1,11 @@
-# Auren – Política de privacidad
+# Política de privacidad del sitio público de Auren
 
-Auren es una aplicación personal de uso privado, creada y usada únicamente por su
-desarrollador (Joshua Alamilla Bravo, gremplay@gmail.com). No se ofrece a terceros.
+La versión canónica y legible de esta política está en
+[`/privacy/`](https://joshalabrav.github.io/auren-site/privacy/).
 
-## Datos de Google
-Auren accede, solo con la autorización de su propietario, a su propio Gmail (lectura),
-Google Calendar y YouTube para ayudarle en tareas personales.
+Este sitio es informativo. Auren no configura formularios, cuentas, analítica, cookies
+ni publicidad en esta landing. El alojamiento mediante GitHub Pages puede procesar
+datos técnicos de conexión conforme a las prácticas de GitHub. Si escribes a
+`auren.assistant@gmail.com`, el mensaje se utilizará para responder a tu consulta.
 
-- Esos datos no se venden, no se comparten con terceros y no se usan para publicidad.
-- Se procesan en el equipo del propietario. Para responder, el contenido necesario
-  puede enviarse al modelo de IA que usa la aplicación (Anthropic) y no se conserva
-  para otros fines.
-- La autorización puede revocarse en cualquier momento desde
-  https://myaccount.google.com/permissions
-
-## Contacto
-gremplay@gmail.com
+Última actualización: 1 de octubre de 2026.

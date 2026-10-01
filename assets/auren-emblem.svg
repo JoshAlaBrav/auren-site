@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title description">
+  <title id="title">Emblema de Auren</title>
+  <desc id="description">Dos arcos azules rodean un núcleo de luz.</desc>
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d8f2ff"/>
+      <stop offset="55%" stop-color="#54b8ff"/>
+      <stop offset="100%" stop-color="#1c5fc7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#86dcff"/>
+      <stop offset="100%" stop-color="#4b8cff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="30" fill="none" stroke="url(#ring)" stroke-width="2.5" opacity="0.55"/>
+  <path d="M 50 12 A 38 38 0 0 1 84 62" fill="none" stroke="url(#ring)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 50 88 A 38 38 0 0 1 16 38" fill="none" stroke="url(#ring)" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="50" cy="50" r="13" fill="url(#core)"/>
+  <circle cx="50" cy="50" r="4.5" fill="#f4fbff"/>
+</svg>
