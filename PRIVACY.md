@@ -1,7 +1,7 @@
 # Política de privacidad del sitio público de Auren
 
 La versión canónica y legible de esta política está en
-[`/privacy/`](https://joshalabrav.github.io/Auren-il/privacy/).
+[`/privacy/`](https://joshalabrav.github.io/auren-site/privacy/).
 
 Este sitio es informativo. Auren no configura formularios, cuentas, analítica, cookies
 ni publicidad en esta landing. El alojamiento mediante GitHub Pages puede procesar

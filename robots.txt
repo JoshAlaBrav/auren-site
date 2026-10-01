@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://joshalabrav.github.io/Auren-il/sitemap.xml
+Sitemap: https://joshalabrav.github.io/auren-site/sitemap.xml

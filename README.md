@@ -30,7 +30,7 @@ fusionar la rama de la landing, un administrador del repositorio puede elegir en
 **Settings → Pages → Build and deployment → Deploy from a branch**, seleccionar `main`
 y la carpeta `/ (root)`.
 
-La URL prevista es <https://joshalabrav.github.io/Auren-il/>. La activación de Pages no
+La URL prevista es <https://joshalabrav.github.io/auren-site/>. La activación de Pages no
 forma parte de este cambio.
 
 ## Privacidad
